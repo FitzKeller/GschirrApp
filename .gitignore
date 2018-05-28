@@ -8,6 +8,9 @@
 # Java class files
 *.class
 
+# Java jar files
+.jar
+
 # Generated files
 bin/
 gen/
@@ -63,3 +66,5 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+.idea
+/gradle/wrapper/*.jar
